@@ -21,7 +21,7 @@ git clone https://github.com/your-username/csv-uploader.git
 cd csv-uploader
 
 #### Build and run 
-mvn spring-boot:run
+mvn spring-boot:run (feel free to simply start the server with your preferred IDE)
 
 ##### Usage
 Upload CSV Data
